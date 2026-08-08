@@ -109,7 +109,7 @@ npm run preview   # Serves the production build locally for testing
 
 
 
-```markdown
+
 ## Screenshots
 
 ### Converter — Default State
@@ -117,7 +117,7 @@ npm run preview   # Serves the production build locally for testing
 
 ### Converter — Loading State
 ![Loading State](./screenshots/loading.png)
-```
+
 
 ## 🎓 Learning / Interview Concepts
 
