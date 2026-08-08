@@ -107,16 +107,16 @@ npm run preview   # Serves the production build locally for testing
 
 ## 🖼️ Screenshots
 
-> Add screenshots here after running the project locally.
+
 
 ```markdown
 ## Screenshots
 
 ### Converter — Default State
-![Default State](./screenshots/default.png)
+![Default State](./Screenshots/default.png)
 
 ### Converter — Loading State
-![Loading State](./screenshots/loading.png)
+![Loading State](./Screenshots/loading.png)
 ```
 
 ## 🎓 Learning / Interview Concepts
@@ -146,8 +146,8 @@ These are not implemented yet — just realistic next steps:
 
 **Areeba MJaved**
 
-GitHub: []
-(https://github.com/AreebaMJaved)
+GitHub: 
+https://github.com/AreebaMJaved
 
 ## 📄 License
 
